@@ -1,0 +1,11 @@
+Year,Month,Day,Time,ObjectID,Direction, Vehicle Class, Speed(km/h)
+2022,4,5,11:44:03,0,Left,car,60.33
+2022,4,5,11:44:12,1,Right,motorcycle,35.53
+2022,4,5,11:44:20,2,Left,car,36.56
+2022,4,5,11:44:33,3,Left,car,42.78
+2022,4,5,11:44:38,4,Right,motorcycle,34.61
+2022,4,5,11:44:42,5,Right,car,37.66
+2022,4,5,11:44:49,6,Left,car,29.25
+2022,4,5,11:45:15,7,Left,car,50.46
+2022,4,5,11:45:17,8,Left,car,51.92
+Total Vehicle: 9,Total Left: 6,Total Right: 3,Total Cars: 7, Total Motorcycles: 2, Total Bicycles: 0,,
